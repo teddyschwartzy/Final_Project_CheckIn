@@ -1,5 +1,4 @@
 # Predicting Mortality Outcomes in HIV/AIDS Patients
-### Automated Analysis Pipeline Final Project
 
 ## Project Overview
 
